@@ -1,0 +1,22 @@
+Figure 4.1. Set up Android Studio
+
+Figure 4.2. Install an Android AVD?
+Figure 4.3. The installation location must have at least 500 MB free space
+Figure 4.4. Select the folder in which to store Android Studio shortcuts
+Figure 4. 5. This panel shows the progress of the installation
+Figure 4.6. The Next button is enabled when installation completes
+Figure 4.7. Leave the Start Android Studio checkbox checked to run this software
+Figure 4.8. A previous installation's settings can be imported
+Figure 4.9. Android Studio's splash screen
+Figure 4.10. Android Studio downloads any SDK components that are needed (and available)
+Figure 4.11. The wizard provides setup and app-porting capabilities 
+Figure 4.12. Choose an installation type (click to enlarge)
+Figure 4.13. Put the bite on Android Studio by choosing the Dracula theme
+
+Figure 4.14. Android Studio identifies additional SDK components that will be downloaded (click to enlarge)
+Figure 4.15. The wizard downloads and unzips SDK components 
+Figure 4.16. The wizard identifies the various archives being downloaded
+Figure 4.17. Intel-based hardware acceleration is unavailable
+Figure 4.18. Welcome to Android Studio 
+Figure 5.1 architecture of location base alarm
+
